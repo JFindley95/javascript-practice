@@ -11,5 +11,5 @@ function getMiddle(str) {
             length = 2;
         }
 
-        return str.substring(position, position + length)
+        return str.substring(position, position + length);
     }
